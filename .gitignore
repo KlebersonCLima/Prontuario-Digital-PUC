@@ -1,6 +1,18 @@
+# Ambientes virtuais
 venv/
 .venv/
+
+# Variáveis de ambiente
 .env
 
+# Python
 __pycache__/
 *.pyc
+
+# Node
+node_modules/
+
+# Editores e sistema
+.idea/
+.vscode/
+.DS_Store
